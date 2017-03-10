@@ -1,6 +1,6 @@
 # Welcome to jehuan-dynamic-rendering!
 
-[bing](www.bing.com)
+[bing](http://www.bing.com)
 
 [bookmark](#bookmark)
 
